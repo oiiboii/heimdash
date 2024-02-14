@@ -1,0 +1,1 @@
+export { ModalIncident } from "./ModalIncident";

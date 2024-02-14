@@ -1,0 +1,902 @@
+.contacts {
+  background-color: #f8f9fb;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.contacts .div-4 {
+  background-color: #f8f9fb;
+  border: 1px none;
+  height: 1272px;
+  position: relative;
+  width: 1728px;
+}
+
+.contacts .sidebar {
+  height: 1117px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 80px;
+}
+
+.contacts .sidebar-navigation {
+  background-color: #0c111d;
+  border-radius: 0px 8px 8px 0px;
+  height: 1117px;
+  overflow: hidden;
+}
+
+.contacts .content-10 {
+  height: 1117px;
+  position: relative;
+  width: 80px;
+}
+
+.contacts .navigation {
+  height: 248px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 80px;
+}
+
+.contacts .avatar-wrapper {
+  background-color: transparent;
+  height: 32px;
+  left: 0;
+  position: absolute;
+  top: 32px;
+  width: 80px;
+}
+
+.contacts .overlap-group-wrapper {
+  background-color: #1f242f;
+  border-radius: 8px;
+  height: 32px;
+  left: 24px;
+  position: relative;
+  width: 32px;
+}
+
+.contacts .user-wrapper {
+  border-radius: 8px;
+  height: 32px;
+  position: relative;
+}
+
+.contacts .user-2 {
+  height: 21px;
+  left: 5px;
+  position: absolute;
+  top: 5px;
+  width: 21px;
+}
+
+.contacts .navigation-2 {
+  height: 160px;
+  left: 0;
+  position: absolute;
+  top: 88px;
+  width: 80px;
+}
+
+.contacts .nav-item-button {
+  background-color: #0c111d;
+  border-radius: 6px;
+  height: 48px;
+  left: 16px;
+  overflow: hidden;
+  position: absolute;
+  top: 0;
+  width: 48px;
+}
+
+.contacts .img-2 {
+  height: 24px;
+  left: 12px;
+  position: absolute;
+  top: 12px;
+  width: 24px;
+}
+
+.contacts .file-check-wrapper {
+  background-color: #0c111d;
+  border-radius: 6px;
+  height: 48px;
+  left: 16px;
+  overflow: hidden;
+  position: absolute;
+  top: 56px;
+  width: 48px;
+}
+
+.contacts .users-wrapper {
+  background-color: #1f242f;
+  border-radius: 6px;
+  height: 48px;
+  left: 16px;
+  overflow: hidden;
+  position: absolute;
+  top: 112px;
+  width: 48px;
+}
+
+.contacts .footer {
+  background-color: transparent;
+  height: 144px;
+  left: 0;
+  position: absolute;
+  top: 973px;
+  width: 80px;
+}
+
+.contacts .nav-item-button-wrapper {
+  height: 48px;
+  left: 16px;
+  position: absolute;
+  top: 0;
+  width: 48px;
+}
+
+.contacts .log-out-wrapper {
+  background-color: #0c111d;
+  border-radius: 6px;
+  height: 48px;
+  overflow: hidden;
+  position: relative;
+}
+
+.contacts .component {
+  height: 48px;
+  left: 16px;
+  position: absolute;
+  top: 72px;
+  width: 48px;
+}
+
+.contacts .overlap {
+  border-radius: 8px;
+  height: 48px;
+  position: relative;
+}
+
+.contacts .avatar-2 {
+  background-color: #1f242f;
+  border-radius: 8px;
+  height: 48px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 48px;
+}
+
+.contacts .info-square-wrapper {
+  background-color: #1f242f;
+  border-radius: 8px;
+  height: 48px;
+  position: relative;
+}
+
+.contacts .info-square {
+  height: 32px;
+  left: 8px;
+  position: absolute;
+  top: 8px;
+  width: 32px;
+}
+
+.contacts .group-7 {
+  background-image: url(../../../static/img/group-3058-3.png);
+  background-size: 100% 100%;
+  height: 28px;
+  left: 19px;
+  position: absolute;
+  top: 10px;
+  width: 11px;
+}
+
+.contacts .frame-4 {
+  background-color: #f8f9fb;
+  height: 1198px;
+  left: 80px;
+  position: absolute;
+  top: 0;
+  width: 1386px;
+}
+
+.contacts .frame-5 {
+  height: 44px;
+  left: 32px;
+  position: absolute;
+  top: 32px;
+  width: 1304px;
+}
+
+.contacts .text-and-supporting-6 {
+  height: 44px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 793px;
+}
+
+.contacts .text-27 {
+  color: #101828;
+  font-family: "Inter", Helvetica;
+  font-size: 30px;
+  font-weight: 600;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 38px;
+  position: absolute;
+  top: -1px;
+  width: 793px;
+}
+
+.contacts .text-wrapper-28 {
+  color: #101828;
+  font-family: "Inter", Helvetica;
+  font-size: 30px;
+  font-weight: 600;
+  letter-spacing: 0;
+  line-height: 38px;
+}
+
+.contacts .input-dropdown-2 {
+  height: 44px;
+  left: 984px;
+  position: absolute;
+  top: 0;
+  width: 320px;
+}
+
+.contacts .input-with-label-6 {
+  height: 44px;
+}
+
+.contacts .input-8 {
+  background-color: #ffffff;
+  border-radius: 8px;
+  box-shadow: 0px 1px 2px #1018280d;
+  height: 44px;
+  overflow: hidden;
+  width: 320px;
+}
+
+.contacts .search-lg-wrapper {
+  height: 20px;
+  left: 14px;
+  position: relative;
+  top: 12px;
+  width: 292px;
+}
+
+.contacts .search-lg {
+  height: 20px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 20px;
+}
+
+.contacts .group-wrapper {
+  height: 1077px;
+  left: 35px;
+  position: absolute;
+  top: 121px;
+  width: 1351px;
+}
+
+.contacts .group-8 {
+  height: 1052px;
+  position: relative;
+  width: 1322px;
+}
+
+.contacts .group-9 {
+  height: 72px;
+  left: 0;
+  position: absolute;
+  top: 44px;
+  width: 1315px;
+}
+
+.contacts .table-cell-11 {
+  background-color: #fbfcfc;
+  height: 72px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 220px;
+}
+
+.contacts .avatar-3 {
+  background-color: #f2f4f7;
+  border-radius: 9999px;
+  height: 40px;
+  left: 24px;
+  position: absolute;
+  top: 16px;
+  width: 40px;
+}
+
+.contacts .img-wrapper {
+  border-radius: 9999px;
+  height: 40px;
+  position: relative;
+}
+
+.contacts .user-3 {
+  height: 24px;
+  left: 8px;
+  position: absolute;
+  top: 8px;
+  width: 24px;
+}
+
+.contacts .text-28 {
+  color: #101828;
+  font-family: "Inter", Helvetica;
+  font-size: 14px;
+  font-weight: 500;
+  left: 76px;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: absolute;
+  top: 25px;
+  white-space: nowrap;
+}
+
+.contacts .text-wrapper-29 {
+  color: #101828;
+  font-family: "Inter", Helvetica;
+  font-size: 14px;
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: 20px;
+}
+
+.contacts .table-cell-12 {
+  background-color: #fbfcfc;
+  height: 72px;
+  left: 220px;
+  position: absolute;
+  top: 0;
+  width: 247px;
+}
+
+.contacts .text-29 {
+  color: #475467;
+  font-family: "Inter", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  left: 24px;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: absolute;
+  top: 25px;
+  white-space: nowrap;
+}
+
+.contacts .text-wrapper-30 {
+  color: #475467;
+  font-family: "Inter", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 20px;
+}
+
+.contacts .table-cell-13 {
+  background-color: #fbfcfc;
+  height: 72px;
+  left: 467px;
+  position: absolute;
+  top: 0;
+  width: 184px;
+}
+
+.contacts .table-cell-14 {
+  background-color: #fbfcfc;
+  height: 72px;
+  left: 653px;
+  position: absolute;
+  top: 0;
+  width: 208px;
+}
+
+.contacts .badge-13 {
+  background-color: #ecfcf2;
+  border-radius: 6px;
+  height: 22px;
+  left: 24px;
+  position: relative;
+  top: 25px;
+  width: 71px;
+}
+
+.contacts .text-30 {
+  color: #057647;
+  font-family: "Inter", Helvetica;
+  font-size: 12px;
+  font-weight: 500;
+  left: 6px;
+  letter-spacing: 0;
+  line-height: 18px;
+  position: absolute;
+  text-align: center;
+  top: 1px;
+  white-space: nowrap;
+}
+
+.contacts .text-wrapper-31 {
+  color: #057647;
+  font-family: "Inter", Helvetica;
+  font-size: 12px;
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: 18px;
+}
+
+.contacts .progress-bar-wrapper {
+  background-color: #fbfcfc;
+  height: 72px;
+  left: 861px;
+  position: absolute;
+  top: 0;
+  width: 217px;
+}
+
+.contacts .progress-bar {
+  height: 40px;
+  left: 24px;
+  position: relative;
+  top: 16px;
+  width: 169px;
+}
+
+.contacts .progress-wrapper {
+  background-color: #eaecf0;
+  border-radius: 9999px;
+  height: 8px;
+  left: 0;
+  position: absolute;
+  top: 16px;
+  width: 139px;
+}
+
+.contacts .progress {
+  background-color: #aaefc6;
+  border-radius: 9999px;
+  height: 8px;
+  width: 126px;
+}
+
+.contacts .percentage {
+  color: #344054;
+  font-family: "Inter", Helvetica;
+  font-size: 14px;
+  font-weight: 500;
+  height: 20px;
+  left: 151px;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: absolute;
+  top: 9px;
+  white-space: nowrap;
+}
+
+.contacts .text-wrapper-32 {
+  color: #344054;
+  font-family: "Inter", Helvetica;
+  font-size: 14px;
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: 20px;
+}
+
+.contacts .table-cell-15 {
+  background-color: #fbfcfc;
+  height: 72px;
+  left: 1079px;
+  position: absolute;
+  top: 0;
+  width: 120px;
+}
+
+.contacts .table-cell-16 {
+  background-color: #fbfcfc;
+  height: 72px;
+  left: 1199px;
+  position: absolute;
+  top: 0;
+  width: 116px;
+}
+
+.contacts .trash-wrapper {
+  border-radius: 8px;
+  height: 40px;
+  left: 16px;
+  overflow: hidden;
+  position: absolute;
+  top: 16px;
+  width: 40px;
+}
+
+.contacts .img-3 {
+  height: 20px;
+  left: 10px;
+  position: absolute;
+  top: 10px;
+  width: 20px;
+}
+
+.contacts .edit-wrapper {
+  border-radius: 8px;
+  height: 40px;
+  left: 60px;
+  overflow: hidden;
+  position: absolute;
+  top: 16px;
+  width: 40px;
+}
+
+.contacts .group-10 {
+  height: 72px;
+  left: 0;
+  position: absolute;
+  top: 188px;
+  width: 1315px;
+}
+
+.contacts .table-cell-17 {
+  background-color: #fbfcfc;
+  height: 72px;
+  left: 469px;
+  position: absolute;
+  top: 0;
+  width: 184px;
+}
+
+.contacts .badge-14 {
+  background-color: #fef2f1;
+  border-radius: 6px;
+  height: 22px;
+  left: 24px;
+  position: relative;
+  top: 25px;
+  width: 95px;
+}
+
+.contacts .text-31 {
+  color: #b32218;
+  font-family: "Inter", Helvetica;
+  font-size: 12px;
+  font-weight: 500;
+  left: 6px;
+  letter-spacing: 0;
+  line-height: 18px;
+  position: absolute;
+  text-align: center;
+  top: 1px;
+  white-space: nowrap;
+}
+
+.contacts .text-wrapper-33 {
+  color: #b32218;
+  font-family: "Inter", Helvetica;
+  font-size: 12px;
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: 18px;
+}
+
+.contacts .group-11 {
+  height: 72px;
+  left: 0;
+  position: absolute;
+  top: 116px;
+  width: 1315px;
+}
+
+.contacts .badge-15 {
+  background-color: #fff9eb;
+  border-radius: 6px;
+  height: 22px;
+  left: 24px;
+  position: relative;
+  top: 25px;
+  width: 72px;
+}
+
+.contacts .text-32 {
+  color: #b54707;
+  font-family: "Inter", Helvetica;
+  font-size: 12px;
+  font-weight: 500;
+  left: 6px;
+  letter-spacing: 0;
+  line-height: 18px;
+  position: absolute;
+  text-align: center;
+  top: 1px;
+  white-space: nowrap;
+}
+
+.contacts .text-wrapper-34 {
+  color: #b54707;
+  font-family: "Inter", Helvetica;
+  font-size: 12px;
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: 18px;
+}
+
+.contacts .group-12 {
+  height: 72px;
+  left: 0;
+  position: absolute;
+  top: 260px;
+  width: 1315px;
+}
+
+.contacts .group-13 {
+  height: 72px;
+  left: 0;
+  position: absolute;
+  top: 548px;
+  width: 1315px;
+}
+
+.contacts .group-14 {
+  height: 72px;
+  left: 0;
+  position: absolute;
+  top: 404px;
+  width: 1315px;
+}
+
+.contacts .group-15 {
+  height: 72px;
+  left: 0;
+  position: absolute;
+  top: 692px;
+  width: 1315px;
+}
+
+.contacts .group-16 {
+  height: 72px;
+  left: 0;
+  position: absolute;
+  top: 836px;
+  width: 1315px;
+}
+
+.contacts .group-17 {
+  height: 72px;
+  left: 0;
+  position: absolute;
+  top: 332px;
+  width: 1315px;
+}
+
+.contacts .group-18 {
+  height: 72px;
+  left: 0;
+  position: absolute;
+  top: 620px;
+  width: 1315px;
+}
+
+.contacts .group-19 {
+  height: 72px;
+  left: 0;
+  position: absolute;
+  top: 476px;
+  width: 1315px;
+}
+
+.contacts .group-20 {
+  height: 72px;
+  left: 0;
+  position: absolute;
+  top: 764px;
+  width: 1315px;
+}
+
+.contacts .group-21 {
+  height: 72px;
+  left: 0;
+  position: absolute;
+  top: 908px;
+  width: 1315px;
+}
+
+.contacts .group-22 {
+  height: 72px;
+  left: 0;
+  position: absolute;
+  top: 980px;
+  width: 1315px;
+}
+
+.contacts .table-cell-18 {
+  background-color: #fbfcfc;
+  border-radius: 0px 0px 0px 12px;
+  height: 72px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 220px;
+}
+
+.contacts .table-cell-19 {
+  background-color: #fbfcfc;
+  border-radius: 0px 0px 12px 0px;
+  height: 72px;
+  left: 1199px;
+  position: absolute;
+  top: 0;
+  width: 116px;
+}
+
+.contacts .group-23 {
+  height: 44px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1322px;
+}
+
+.contacts .table-header-cell-4 {
+  background-color: #f8fafc;
+  border-radius: 12px 0px 0px 0px;
+  height: 44px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 220px;
+}
+
+.contacts .table-header-5 {
+  height: 18px;
+  left: 24px;
+  position: relative;
+  top: 13px;
+  width: 34px;
+}
+
+.contacts .text-33 {
+  color: #475467;
+  font-family: "Inter", Helvetica;
+  font-size: 12px;
+  font-weight: 500;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 18px;
+  position: absolute;
+  top: -1px;
+  white-space: nowrap;
+}
+
+.contacts .text-wrapper-35 {
+  color: #475467;
+  font-family: "Inter", Helvetica;
+  font-size: 12px;
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: 18px;
+}
+
+.contacts .table-header-cell-5 {
+  background-color: #f8fafc;
+  height: 44px;
+  left: 220px;
+  position: absolute;
+  top: 0;
+  width: 247px;
+}
+
+.contacts .table-header-6 {
+  height: 18px;
+  left: 24px;
+  position: relative;
+  top: 13px;
+  width: 25px;
+}
+
+.contacts .table-header-cell-6 {
+  background-color: #f8fafc;
+  height: 44px;
+  left: 469px;
+  position: absolute;
+  top: 0;
+  width: 184px;
+}
+
+.contacts .table-header-7 {
+  height: 18px;
+  left: 24px;
+  position: relative;
+  top: 13px;
+  width: 50px;
+}
+
+.contacts .table-header-cell-7 {
+  background-color: #f8fafc;
+  height: 44px;
+  left: 653px;
+  position: absolute;
+  top: 0;
+  width: 208px;
+}
+
+.contacts .table-header-8 {
+  height: 18px;
+  left: 24px;
+  position: relative;
+  top: 13px;
+  width: 116px;
+}
+
+.contacts .table-header-cell-8 {
+  background-color: #f8fafc;
+  height: 44px;
+  left: 861px;
+  position: absolute;
+  top: 0;
+  width: 217px;
+}
+
+.contacts .table-header-9 {
+  height: 18px;
+  left: 24px;
+  position: relative;
+  top: 13px;
+  width: 93px;
+}
+
+.contacts .arrow-down {
+  height: 16px;
+  left: 77px;
+  position: absolute;
+  top: 1px;
+  width: 16px;
+}
+
+.contacts .table-header-cell-9 {
+  background-color: #f8fafc;
+  height: 44px;
+  left: 1079px;
+  position: absolute;
+  top: 0;
+  width: 120px;
+}
+
+.contacts .table-header-10 {
+  height: 18px;
+  left: 24px;
+  position: relative;
+  top: 13px;
+  width: 64px;
+}
+
+.contacts .table-header-cell-10 {
+  background-color: #f8fafc;
+  height: 44px;
+  left: 1199px;
+  position: absolute;
+  top: 0;
+  width: 123px;
+}
+
+.contacts .table-header-11 {
+  height: 18px;
+  left: 24px;
+  position: relative;
+  top: 13px;
+  width: 23px;
+}

@@ -1,0 +1,1212 @@
+.employee-overview {
+  background-color: #0c111db2;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.employee-overview .modal-wrapper-2 {
+  -webkit-backdrop-filter: blur(16px) brightness(100%);
+  backdrop-filter: blur(16px) brightness(100%);
+  background-color: #0c111db2;
+  border: 1px none;
+  height: 1117px;
+  width: 1728px;
+}
+
+.employee-overview .modal-2 {
+  background-color: #ffffff;
+  border-radius: 12px;
+  box-shadow: 0px 8px 8px -4px #10182808, 0px 20px 24px -4px #10182814;
+  height: 840px;
+  left: 520px;
+  overflow: hidden;
+  position: relative;
+  top: 138px;
+  width: 688px;
+}
+
+.employee-overview .modal-header-2 {
+  height: 97px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 688px;
+}
+
+.employee-overview .div-2 {
+  height: 76px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 688px;
+}
+
+.employee-overview .text-and-supporting-2 {
+  height: 52px;
+  left: 24px;
+  position: relative;
+  top: 24px;
+  width: 640px;
+}
+
+.employee-overview .text-7 {
+  color: #101828;
+  font-family: "Inter", Helvetica;
+  font-size: 18px;
+  font-weight: 600;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 28px;
+  position: absolute;
+  top: -1px;
+  width: 640px;
+}
+
+.employee-overview .text-wrapper-7 {
+  color: #101828;
+  font-family: "Inter", Helvetica;
+  font-size: 18px;
+  font-weight: 600;
+  letter-spacing: 0;
+  line-height: 28px;
+}
+
+.employee-overview .supporting-text-2 {
+  color: #475467;
+  font-family: "Inter", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: absolute;
+  top: 31px;
+  width: 640px;
+}
+
+.employee-overview .text-wrapper-8 {
+  color: #475467;
+  font-family: "Inter", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 20px;
+}
+
+.employee-overview .x-close-wrapper {
+  border-radius: 8px;
+  height: 44px;
+  left: 632px;
+  overflow: hidden;
+  position: absolute;
+  top: 12px;
+  width: 44px;
+}
+
+.employee-overview .x-close-2 {
+  height: 24px;
+  left: 10px;
+  position: absolute;
+  top: 10px;
+  width: 24px;
+}
+
+.employee-overview .divider-2 {
+  height: 1px;
+  left: 0;
+  position: absolute;
+  top: 96px;
+  width: 688px;
+}
+
+.employee-overview .content-3 {
+  height: 618px;
+  left: 0;
+  position: absolute;
+  top: 97px;
+  width: 688px;
+}
+
+.employee-overview .avatar-and-file {
+  height: 44px;
+  left: 24px;
+  position: absolute;
+  top: 20px;
+  width: 640px;
+}
+
+.employee-overview .input-dropdown {
+  height: 44px;
+}
+
+.employee-overview .input-with-label-2 {
+  height: 44px;
+  width: 640px;
+}
+
+.employee-overview .input-4 {
+  background-color: #ffffff;
+  border-radius: 8px;
+  box-shadow: 0px 1px 2px #1018280d;
+  height: 44px;
+  overflow: hidden;
+  position: relative;
+}
+
+.employee-overview .content-4 {
+  height: 24px;
+  left: 14px;
+  position: absolute;
+  top: 10px;
+  width: 584px;
+}
+
+.employee-overview .avatar {
+  background-color: #f2f4f7;
+  border-radius: 4px;
+  height: 24px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 24px;
+}
+
+.employee-overview .overlap-group {
+  border-radius: 4px;
+  height: 24px;
+  position: relative;
+}
+
+.employee-overview .user {
+  height: 16px;
+  left: 4px;
+  position: absolute;
+  top: 4px;
+  width: 16px;
+}
+
+.employee-overview .text-8 {
+  color: #101828;
+  font-family: "Inter", Helvetica;
+  font-size: 16px;
+  font-weight: 500;
+  left: 32px;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: absolute;
+  top: -1px;
+  white-space: nowrap;
+}
+
+.employee-overview .text-wrapper-9 {
+  color: #101828;
+  font-family: "Inter", Helvetica;
+  font-size: 16px;
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: 24px;
+}
+
+.employee-overview .supporting-text-3 {
+  color: #475467;
+  font-family: "Inter", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  left: 113px;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: absolute;
+  top: -1px;
+  white-space: nowrap;
+}
+
+.employee-overview .text-wrapper-10 {
+  color: #475467;
+  font-family: "Inter", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 24px;
+}
+
+.employee-overview .chevron-down {
+  height: 20px;
+  left: 606px;
+  position: absolute;
+  top: 12px;
+  width: 20px;
+}
+
+.employee-overview .frame {
+  height: 66px;
+  left: 24px;
+  position: absolute;
+  top: 84px;
+  width: 640px;
+}
+
+.employee-overview .input-with-label-wrapper {
+  height: 66px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 315px;
+}
+
+.employee-overview .input-with-label-3 {
+  height: 66px;
+  position: relative;
+}
+
+.employee-overview .label {
+  color: #344054;
+  font-family: "Inter", Helvetica;
+  font-size: 14px;
+  font-weight: 500;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: absolute;
+  top: -1px;
+  white-space: nowrap;
+}
+
+.employee-overview .text-wrapper-11 {
+  color: #344054;
+  font-family: "Inter", Helvetica;
+  font-size: 14px;
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: 20px;
+}
+
+.employee-overview .input-5 {
+  background-color: #f9fafb;
+  border-radius: 8px;
+  box-shadow: 0px 1px 2px #1018280d;
+  height: 40px;
+  left: 0;
+  position: absolute;
+  top: 26px;
+  width: 315px;
+}
+
+.employee-overview .content-5 {
+  height: 24px;
+  left: 12px;
+  position: relative;
+  top: 8px;
+  width: 291px;
+}
+
+.employee-overview .text-9 {
+  color: #667085;
+  font-family: "Inter", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: absolute;
+  top: -1px;
+  width: 291px;
+}
+
+.employee-overview .text-wrapper-12 {
+  color: #667085;
+  font-family: "Inter", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 24px;
+}
+
+.employee-overview .input-field-2 {
+  height: 66px;
+  left: 325px;
+  position: absolute;
+  top: 0;
+  width: 315px;
+}
+
+.employee-overview .badge {
+  background-color: #ecfcf2;
+  border-radius: 6px;
+  height: 22px;
+  left: 12px;
+  position: absolute;
+  top: 9px;
+  width: 267px;
+}
+
+.employee-overview .text-10 {
+  color: #057647;
+  font-family: "Inter", Helvetica;
+  font-size: 12px;
+  font-weight: 500;
+  left: 104px;
+  letter-spacing: 0;
+  line-height: 18px;
+  position: absolute;
+  text-align: center;
+  top: 1px;
+  white-space: nowrap;
+}
+
+.employee-overview .text-wrapper-13 {
+  color: #057647;
+  font-family: "Inter", Helvetica;
+  font-size: 12px;
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: 18px;
+}
+
+.employee-overview .help-icon {
+  background-image: url(../../../static/img/help-circle-1.png);
+  background-size: 100% 100%;
+  height: 16px;
+  left: 287px;
+  position: absolute;
+  top: 12px;
+  width: 16px;
+}
+
+.employee-overview .row-8 {
+  height: 72px;
+  left: 24px;
+  position: absolute;
+  top: 170px;
+  width: 640px;
+}
+
+.employee-overview .text-11 {
+  color: #344054;
+  font-family: "Inter", Helvetica;
+  font-size: 14px;
+  font-weight: 500;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: absolute;
+  top: -1px;
+  width: 160px;
+}
+
+.employee-overview .textarea-input-field-2 {
+  height: 46px;
+  left: 0;
+  position: absolute;
+  top: 26px;
+  width: 640px;
+}
+
+.employee-overview .input-with-label-4 {
+  height: 46px;
+}
+
+.employee-overview .input-6 {
+  background-color: #ffffff;
+  border-radius: 8px;
+  box-shadow: 0px 1px 2px #1018280d;
+  height: 46px;
+  overflow: hidden;
+  position: relative;
+  width: 640px;
+}
+
+.employee-overview .badge-2 {
+  background-color: #f9fafb;
+  border-radius: 6px;
+  height: 22px;
+  left: 14px;
+  position: absolute;
+  top: 12px;
+  width: 93px;
+}
+
+.employee-overview .text-12 {
+  color: #344054;
+  font-family: "Inter", Helvetica;
+  font-size: 12px;
+  font-weight: 500;
+  left: 6px;
+  letter-spacing: 0;
+  line-height: 18px;
+  position: absolute;
+  text-align: center;
+  top: 1px;
+  white-space: nowrap;
+}
+
+.employee-overview .text-wrapper-14 {
+  color: #344054;
+  font-family: "Inter", Helvetica;
+  font-size: 12px;
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: 18px;
+}
+
+.employee-overview .badge-3 {
+  background-color: #f9fafb;
+  border-radius: 6px;
+  height: 22px;
+  left: 115px;
+  position: absolute;
+  top: 12px;
+  width: 105px;
+}
+
+.employee-overview .row-9 {
+  height: 22px;
+  left: 228px;
+  position: absolute;
+  top: 12px;
+  width: 184px;
+}
+
+.employee-overview .badge-4 {
+  background-color: #f9fafb;
+  border-radius: 6px;
+  height: 22px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 117px;
+}
+
+.employee-overview .badge-5 {
+  background-color: #f9fafb;
+  border-radius: 6px;
+  height: 22px;
+  left: 125px;
+  position: absolute;
+  top: 0;
+  width: 59px;
+}
+
+.employee-overview .badge-6 {
+  background-color: #f9fafb;
+  border-radius: 6px;
+  height: 22px;
+  left: 420px;
+  position: absolute;
+  top: 12px;
+  width: 103px;
+}
+
+.employee-overview .divider-3 {
+  height: 1px;
+  left: 24px;
+  position: absolute;
+  top: 262px;
+  width: 640px;
+}
+
+.employee-overview .row-10 {
+  height: 20px;
+  left: 24px;
+  position: absolute;
+  top: 283px;
+  width: 640px;
+}
+
+.employee-overview .input-field-3 {
+  height: 20px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 304px;
+}
+
+.employee-overview .label-wrapper {
+  height: 20px;
+  position: relative;
+}
+
+.employee-overview .text-wrapper-15 {
+  color: #667085;
+}
+
+.employee-overview .input-field-4 {
+  height: 20px;
+  left: 336px;
+  position: absolute;
+  top: 0;
+  width: 304px;
+}
+
+.employee-overview .form-2 {
+  height: 295px;
+  left: 24px;
+  position: absolute;
+  top: 323px;
+  width: 640px;
+}
+
+.employee-overview .divider-4 {
+  height: 1px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 640px;
+}
+
+.employee-overview .row-11 {
+  height: 278px;
+  left: 0;
+  position: absolute;
+  top: 17px;
+  width: 640px;
+}
+
+.employee-overview .group {
+  height: 252px;
+  left: 0;
+  position: absolute;
+  top: 26px;
+  width: 640px;
+}
+
+.employee-overview .frame-wrapper {
+  height: 252px;
+}
+
+.employee-overview .frame-2 {
+  height: 252px;
+  position: relative;
+  width: 640px;
+}
+
+.employee-overview .group-2 {
+  height: 252px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 96px;
+}
+
+.employee-overview .table-header-cell {
+  background-color: #f9fafb;
+  border-radius: 12px 0px 0px 0px;
+  height: 44px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 96px;
+}
+
+.employee-overview .table-header {
+  height: 18px;
+  left: 24px;
+  position: relative;
+  top: 13px;
+  width: 70px;
+}
+
+.employee-overview .text-13 {
+  color: #475467;
+  font-family: "Inter", Helvetica;
+  font-size: 12px;
+  font-weight: 500;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 18px;
+  position: absolute;
+  top: -1px;
+  white-space: nowrap;
+}
+
+.employee-overview .text-wrapper-16 {
+  color: #475467;
+  font-family: "Inter", Helvetica;
+  font-size: 12px;
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: 18px;
+}
+
+.employee-overview .table-cell {
+  background-color: #fbfcfc;
+  height: 52px;
+  left: 0;
+  position: absolute;
+  top: 148px;
+  width: 96px;
+}
+
+.employee-overview .text-and-supporting-3 {
+  height: 40px;
+  left: 24px;
+  position: relative;
+  top: 6px;
+  width: 71px;
+}
+
+.employee-overview .text-14 {
+  color: #101828;
+  font-family: "Inter", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: absolute;
+  top: -1px;
+  white-space: nowrap;
+}
+
+.employee-overview .text-wrapper-17 {
+  color: #101828;
+  font-family: "Inter", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 20px;
+}
+
+.employee-overview .supporting-text-4 {
+  color: #475467;
+  font-family: "Inter", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: absolute;
+  top: 19px;
+  white-space: nowrap;
+}
+
+.employee-overview .table-cell-2 {
+  background-color: #fbfcfc;
+  height: 52px;
+  left: 0;
+  position: absolute;
+  top: 96px;
+  width: 96px;
+}
+
+.employee-overview .table-cell-3 {
+  background-color: #fbfcfc;
+  height: 52px;
+  left: 0;
+  position: absolute;
+  top: 44px;
+  width: 96px;
+}
+
+.employee-overview .text-and-supporting-wrapper {
+  background-color: #fbfcfc;
+  border-radius: 0px 0px 0px 12px;
+  height: 52px;
+  left: 0;
+  position: absolute;
+  top: 200px;
+  width: 96px;
+}
+
+.employee-overview .group-3 {
+  height: 252px;
+  left: 96px;
+  position: absolute;
+  top: 0;
+  width: 96px;
+}
+
+.employee-overview .table-header-wrapper {
+  background-color: #f9fafb;
+  height: 44px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 96px;
+}
+
+.employee-overview .table-header-2 {
+  height: 18px;
+  left: 24px;
+  position: relative;
+  top: 13px;
+  width: 47px;
+}
+
+.employee-overview .table-cell-4 {
+  background-color: #fbfcfc;
+  height: 52px;
+  left: 0;
+  position: absolute;
+  top: 200px;
+  width: 96px;
+}
+
+.employee-overview .text-15 {
+  color: #101828;
+  font-family: "Inter", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  left: 24px;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: absolute;
+  top: 15px;
+  white-space: nowrap;
+}
+
+.employee-overview .group-4 {
+  height: 252px;
+  left: 191px;
+  position: absolute;
+  top: 0;
+  width: 96px;
+}
+
+.employee-overview .table-header-3 {
+  height: 18px;
+  left: 24px;
+  position: relative;
+  top: 13px;
+  width: 48px;
+}
+
+.employee-overview .badge-7 {
+  background-color: #ecfcf2;
+  border-radius: 6px;
+  height: 22px;
+  left: 24px;
+  position: relative;
+  top: 15px;
+  width: 36px;
+}
+
+.employee-overview .text-16 {
+  color: #057647;
+  font-family: "Inter", Helvetica;
+  font-size: 12px;
+  font-weight: 500;
+  left: 6px;
+  letter-spacing: 0;
+  line-height: 18px;
+  position: absolute;
+  text-align: center;
+  top: 1px;
+  white-space: nowrap;
+}
+
+.employee-overview .badge-8 {
+  background-color: #fff9eb;
+  border-radius: 6px;
+  height: 22px;
+  left: 24px;
+  position: relative;
+  top: 15px;
+  width: 59px;
+}
+
+.employee-overview .text-17 {
+  color: #b54707;
+  font-family: "Inter", Helvetica;
+  font-size: 12px;
+  font-weight: 500;
+  left: 6px;
+  letter-spacing: 0;
+  line-height: 18px;
+  position: absolute;
+  text-align: center;
+  top: 1px;
+  white-space: nowrap;
+}
+
+.employee-overview .text-wrapper-18 {
+  color: #b54707;
+  font-family: "Inter", Helvetica;
+  font-size: 12px;
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: 18px;
+}
+
+.employee-overview .badge-9 {
+  background-color: #fef2f1;
+  border-radius: 6px;
+  height: 22px;
+  left: 24px;
+  position: relative;
+  top: 15px;
+  width: 39px;
+}
+
+.employee-overview .text-18 {
+  color: #b32218;
+  font-family: "Inter", Helvetica;
+  font-size: 12px;
+  font-weight: 500;
+  left: 6px;
+  letter-spacing: 0;
+  line-height: 18px;
+  position: absolute;
+  text-align: center;
+  top: 1px;
+  white-space: nowrap;
+}
+
+.employee-overview .text-wrapper-19 {
+  color: #b32218;
+  font-family: "Inter", Helvetica;
+  font-size: 12px;
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: 18px;
+}
+
+.employee-overview .group-5 {
+  height: 252px;
+  left: 287px;
+  position: absolute;
+  top: 0;
+  width: 142px;
+}
+
+.employee-overview .table-header-cell-2 {
+  background-color: #f9fafb;
+  height: 44px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 142px;
+}
+
+.employee-overview .badge-wrapper {
+  background-color: #fbfcfc;
+  height: 52px;
+  left: 0;
+  position: absolute;
+  top: 200px;
+  width: 142px;
+}
+
+.employee-overview .badge-10 {
+  background-color: #ecfcf2;
+  border-radius: 6px;
+  height: 22px;
+  left: 24px;
+  position: relative;
+  top: 15px;
+  width: 40px;
+}
+
+.employee-overview .table-cell-5 {
+  background-color: #fbfcfc;
+  height: 52px;
+  left: 0;
+  position: absolute;
+  top: 148px;
+  width: 142px;
+}
+
+.employee-overview .badge-11 {
+  background-color: #f9fafb;
+  border-radius: 6px;
+  height: 22px;
+  left: 24px;
+  position: relative;
+  top: 15px;
+  width: 96px;
+}
+
+.employee-overview .table-cell-6 {
+  background-color: #fbfcfc;
+  height: 52px;
+  left: 0;
+  position: absolute;
+  top: 96px;
+  width: 142px;
+}
+
+.employee-overview .badge-12 {
+  background-color: #fef2f1;
+  border-radius: 6px;
+  height: 22px;
+  left: 24px;
+  position: relative;
+  top: 15px;
+  width: 61px;
+}
+
+.employee-overview .table-cell-7 {
+  background-color: #fbfcfc;
+  height: 52px;
+  left: 0;
+  position: absolute;
+  top: 44px;
+  width: 142px;
+}
+
+.employee-overview .frame-3 {
+  height: 252px;
+  left: 429px;
+  position: absolute;
+  top: 0;
+  width: 211px;
+}
+
+.employee-overview .table-header-cell-3 {
+  background-color: #f9fafb;
+  border-radius: 0px 12px 0px 0px;
+  height: 44px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 211px;
+}
+
+.employee-overview .table-header-4 {
+  height: 18px;
+  left: 24px;
+  position: relative;
+  top: 13px;
+  width: 97px;
+}
+
+.employee-overview .buttons-button-wrapper {
+  background-color: #fbfcfc;
+  height: 52px;
+  left: 0;
+  position: absolute;
+  top: 44px;
+  width: 211px;
+}
+
+.employee-overview .buttons-button-2 {
+  background-color: #ffffff;
+  border-radius: 8px;
+  box-shadow: 0px 1px 2px #1018280d;
+  height: 36px;
+  left: 24px;
+  overflow: hidden;
+  position: relative;
+  top: 8px;
+  width: 163px;
+}
+
+.employee-overview .text-padding-3 {
+  height: 20px;
+  left: 22px;
+  position: relative;
+  top: 8px;
+  width: 118px;
+}
+
+.employee-overview .text-19 {
+  color: #344054;
+  font-family: "Inter", Helvetica;
+  font-size: 14px;
+  font-weight: 600;
+  left: 2px;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: absolute;
+  top: -1px;
+  white-space: nowrap;
+}
+
+.employee-overview .text-wrapper-20 {
+  color: #344054;
+  font-family: "Inter", Helvetica;
+  font-size: 14px;
+  font-weight: 600;
+  letter-spacing: 0;
+  line-height: 20px;
+}
+
+.employee-overview .table-cell-8 {
+  background-color: #fbfcfc;
+  height: 52px;
+  left: 0;
+  position: absolute;
+  top: 96px;
+  width: 211px;
+}
+
+.employee-overview .buttons-button-3 {
+  background-color: #e7181f;
+  border-radius: 8px;
+  box-shadow: 0px 1px 2px #1018280d;
+  height: 36px;
+  left: 24px;
+  overflow: hidden;
+  position: relative;
+  top: 8px;
+  width: 163px;
+}
+
+.employee-overview .text-padding-4 {
+  height: 20px;
+  left: 12px;
+  position: relative;
+  top: 8px;
+  width: 139px;
+}
+
+.employee-overview .text-20 {
+  color: #ffffff;
+  font-family: "Inter", Helvetica;
+  font-size: 14px;
+  font-weight: 600;
+  left: 25px;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: absolute;
+  text-align: center;
+  top: -1px;
+  white-space: nowrap;
+}
+
+.employee-overview .text-wrapper-21 {
+  color: #ffffff;
+  font-family: "Inter", Helvetica;
+  font-size: 14px;
+  font-weight: 600;
+  letter-spacing: 0;
+  line-height: 20px;
+}
+
+.employee-overview .table-cell-9 {
+  background-color: #fbfcfc;
+  height: 52px;
+  left: 0;
+  position: absolute;
+  top: 148px;
+  width: 211px;
+}
+
+.employee-overview .text-padding-5 {
+  height: 20px;
+  left: 40px;
+  position: relative;
+  top: 8px;
+  width: 84px;
+}
+
+.employee-overview .table-cell-10 {
+  background-color: #fbfcfc;
+  border-radius: 0px 0px 12px 0px;
+  height: 52px;
+  left: 0;
+  position: absolute;
+  top: 200px;
+  width: 211px;
+}
+
+.employee-overview .modal-actions-2 {
+  height: 125px;
+  left: 0;
+  position: absolute;
+  top: 715px;
+  width: 688px;
+}
+
+.employee-overview .divider-wrap-2 {
+  height: 25px;
+  left: 0;
+  position: absolute;
+  top: 32px;
+  width: 688px;
+}
+
+.employee-overview .content-6 {
+  height: 68px;
+  left: 0;
+  position: absolute;
+  top: 57px;
+  width: 688px;
+}
+
+.employee-overview .button {
+  all: unset;
+  background-color: #ffffff;
+  border-radius: 8px;
+  box-shadow: 0px 1px 2px #1018280d;
+  box-sizing: border-box;
+  height: 44px;
+  left: 24px;
+  overflow: hidden;
+  position: absolute;
+  top: 0;
+  width: 314px;
+}
+
+.employee-overview .text-padding-6 {
+  height: 24px;
+  left: 128px;
+  position: relative;
+  top: 10px;
+  width: 58px;
+}
+
+.employee-overview .text-21 {
+  color: #344054;
+  font-family: "Inter", Helvetica;
+  font-size: 16px;
+  font-weight: 600;
+  left: 2px;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: absolute;
+  top: -1px;
+  white-space: nowrap;
+}
+
+.employee-overview .text-wrapper-22 {
+  color: #344054;
+  font-family: "Inter", Helvetica;
+  font-size: 16px;
+  font-weight: 600;
+  letter-spacing: 0;
+  line-height: 24px;
+}
+
+.employee-overview .buttons-button-4 {
+  background-color: #e7181f;
+  border-radius: 8px;
+  box-shadow: 0px 1px 2px #1018280d;
+  height: 44px;
+  left: 350px;
+  overflow: hidden;
+  position: absolute;
+  top: 0;
+  width: 314px;
+}
+
+.employee-overview .text-padding-7 {
+  height: 24px;
+  left: 106px;
+  position: relative;
+  top: 10px;
+  width: 103px;
+}
+
+.employee-overview .text-22 {
+  color: #ffffff;
+  font-family: "Inter", Helvetica;
+  font-size: 16px;
+  font-weight: 600;
+  left: 2px;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: absolute;
+  top: -1px;
+  white-space: nowrap;
+}
+
+.employee-overview .text-wrapper-23 {
+  color: #ffffff;
+  font-family: "Inter", Helvetica;
+  font-size: 16px;
+  font-weight: 600;
+  letter-spacing: 0;
+  line-height: 24px;
+}

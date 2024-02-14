@@ -1,0 +1,266 @@
+.modal-summary {
+  background-color: #0c111db2;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.modal-summary .modal-a-summary {
+  -webkit-backdrop-filter: blur(16px) brightness(100%);
+  backdrop-filter: blur(16px) brightness(100%);
+  background-color: #0c111db2;
+  border: 1px none;
+  height: 1117px;
+  width: 1728px;
+}
+
+.modal-summary .modal-4 {
+  background-color: #ffffff;
+  border-radius: 12px;
+  box-shadow: 0px 8px 8px -4px #10182808, 0px 20px 24px -4px #10182814;
+  height: 886px;
+  left: 262px;
+  overflow: hidden;
+  position: relative;
+  top: 116px;
+  width: 1204px;
+}
+
+.modal-summary .modal-header-4 {
+  height: 97px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1204px;
+}
+
+.modal-summary .div-8 {
+  height: 76px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1204px;
+}
+
+.modal-summary .text-and-supporting-12 {
+  height: 52px;
+  left: 24px;
+  position: relative;
+  top: 24px;
+  width: 1156px;
+}
+
+.modal-summary .text-64 {
+  color: #101828;
+  font-family: "Inter", Helvetica;
+  font-size: 18px;
+  font-weight: 600;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 28px;
+  position: absolute;
+  top: -1px;
+  width: 1156px;
+}
+
+.modal-summary .text-wrapper-66 {
+  color: #101828;
+  font-family: "Inter", Helvetica;
+  font-size: 18px;
+  font-weight: 600;
+  letter-spacing: 0;
+  line-height: 28px;
+}
+
+.modal-summary .supporting-text-10 {
+  color: #475467;
+  font-family: "Inter", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: absolute;
+  top: 31px;
+  width: 1156px;
+}
+
+.modal-summary .text-wrapper-67 {
+  color: #475467;
+  font-family: "Inter", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 20px;
+}
+
+.modal-summary .button-close-x-3 {
+  border-radius: 8px;
+  height: 44px;
+  left: 1148px;
+  overflow: hidden;
+  position: absolute;
+  top: 12px;
+  width: 44px;
+}
+
+.modal-summary .x-close-4 {
+  height: 24px;
+  left: 10px;
+  position: absolute;
+  top: 10px;
+  width: 24px;
+}
+
+.modal-summary .divider-9 {
+  height: 1px;
+  left: 0;
+  position: absolute;
+  top: 96px;
+  width: 1204px;
+}
+
+.modal-summary .image-wrapper {
+  height: 699px;
+  left: 0;
+  position: absolute;
+  top: 97px;
+  width: 1204px;
+}
+
+.modal-summary .image {
+  height: 695px;
+  left: 22px;
+  object-fit: cover;
+  position: absolute;
+  top: 12px;
+  width: 1160px;
+}
+
+.modal-summary .divider-wrap-4 {
+  height: 90px;
+  left: 0;
+  position: absolute;
+  top: 796px;
+  width: 1204px;
+}
+
+.modal-summary .divider-10 {
+  height: 1px;
+  left: 0;
+  position: absolute;
+  top: -2px;
+  width: 1204px;
+}
+
+.modal-summary .group-37 {
+  border-radius: 8px;
+  height: 44px;
+  left: 346px;
+  position: absolute;
+  top: 24px;
+  width: 512px;
+}
+
+.modal-summary .buttons-button-11 {
+  background-color: #ffffff;
+  border-radius: 8px;
+  box-shadow: 0px 1px 2px #1018280d;
+  height: 44px;
+  left: 0;
+  overflow: hidden;
+  position: absolute;
+  top: 0;
+  width: 250px;
+}
+
+.modal-summary .lightning {
+  height: 20px;
+  left: 82px;
+  position: absolute;
+  top: 12px;
+  width: 20px;
+}
+
+.modal-summary .text-padding-18 {
+  height: 24px;
+  left: 108px;
+  position: absolute;
+  top: 10px;
+  width: 60px;
+}
+
+.modal-summary .text-65 {
+  color: #c31218;
+  font-family: "Inter", Helvetica;
+  font-size: 16px;
+  font-weight: 600;
+  left: 2px;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: absolute;
+  top: -1px;
+  white-space: nowrap;
+}
+
+.modal-summary .text-wrapper-68 {
+  color: #c31218;
+  font-family: "Inter", Helvetica;
+  font-size: 16px;
+  font-weight: 600;
+  letter-spacing: 0;
+  line-height: 24px;
+}
+
+.modal-summary .buttons-button-12 {
+  all: unset;
+  background-color: #e7181f;
+  border-radius: 8px;
+  box-shadow: 0px 1px 2px #1018280d;
+  box-sizing: border-box;
+  height: 44px;
+  left: 262px;
+  overflow: hidden;
+  position: absolute;
+  top: 0;
+  width: 250px;
+}
+
+.modal-summary .download {
+  height: 20px;
+  left: 71px;
+  position: absolute;
+  top: 12px;
+  width: 20px;
+}
+
+.modal-summary .text-padding-19 {
+  height: 24px;
+  left: 97px;
+  position: absolute;
+  top: 10px;
+  width: 82px;
+}
+
+.modal-summary .text-66 {
+  color: #ffffff;
+  font-family: "Inter", Helvetica;
+  font-size: 16px;
+  font-weight: 600;
+  left: 2px;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: absolute;
+  top: -1px;
+  white-space: nowrap;
+}
+
+.modal-summary .text-wrapper-69 {
+  color: #ffffff;
+  font-family: "Inter", Helvetica;
+  font-size: 16px;
+  font-weight: 600;
+  letter-spacing: 0;
+  line-height: 24px;
+}

@@ -1,0 +1,486 @@
+.modal-profile {
+  background-color: transparent;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.modal-profile .modal-wrapper-5 {
+  border: 1px none;
+  height: 1117px;
+  width: 1728px;
+}
+
+.modal-profile .modal-7 {
+  -webkit-backdrop-filter: blur(16px) brightness(100%);
+  backdrop-filter: blur(16px) brightness(100%);
+  background-color: #0c111db2;
+  height: 1117px;
+}
+
+.modal-profile .modal-8 {
+  background-color: #ffffff;
+  border-radius: 12px;
+  box-shadow: 0px 8px 8px -4px #10182808, 0px 20px 24px -4px #10182814;
+  height: 716px;
+  left: 624px;
+  overflow: hidden;
+  position: relative;
+  top: 200px;
+  width: 480px;
+}
+
+.modal-profile .modal-header-7 {
+  height: 72px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 480px;
+}
+
+.modal-profile .overlap-group-7 {
+  height: 56px;
+  position: relative;
+}
+
+.modal-profile .content-21 {
+  height: 52px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 480px;
+}
+
+.modal-profile .text-and-supporting-15 {
+  height: 28px;
+  left: 24px;
+  position: relative;
+  top: 24px;
+  width: 432px;
+}
+
+.modal-profile .text-72 {
+  color: #101828;
+  font-family: "Inter", Helvetica;
+  font-size: 18px;
+  font-weight: 600;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 28px;
+  position: absolute;
+  top: -1px;
+  width: 432px;
+}
+
+.modal-profile .text-wrapper-77 {
+  color: #101828;
+  font-family: "Inter", Helvetica;
+  font-size: 18px;
+  font-weight: 600;
+  letter-spacing: 0;
+  line-height: 28px;
+}
+
+.modal-profile .button-close-x-6 {
+  border-radius: 8px;
+  height: 44px;
+  left: 424px;
+  overflow: hidden;
+  position: absolute;
+  top: 12px;
+  width: 44px;
+}
+
+.modal-profile .x-close-7 {
+  height: 24px;
+  left: 10px;
+  position: absolute;
+  top: 10px;
+  width: 24px;
+}
+
+.modal-profile .content-22 {
+  height: 551px;
+  left: 0;
+  position: absolute;
+  top: 72px;
+  width: 480px;
+}
+
+.modal-profile .form-5 {
+  height: 551px;
+  left: 24px;
+  position: relative;
+  width: 432px;
+}
+
+.modal-profile .avatar-and-file-2 {
+  height: 64px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 432px;
+}
+
+.modal-profile .avatar-7 {
+  background-color: #f2f4f7;
+  border-radius: 6px;
+  height: 64px;
+  width: 64px;
+}
+
+.modal-profile .overlap-group-8 {
+  border-radius: 8px;
+  height: 64px;
+  position: relative;
+}
+
+.modal-profile .user-6 {
+  height: 32px;
+  left: 16px;
+  position: absolute;
+  top: 16px;
+  width: 32px;
+}
+
+.modal-profile .input-field-8 {
+  height: 20px;
+  left: 0;
+  position: absolute;
+  top: 80px;
+  width: 432px;
+}
+
+.modal-profile .input-with-label-9 {
+  height: 20px;
+  position: relative;
+}
+
+.modal-profile .label-3 {
+  color: #344054;
+  font-family: "Inter", Helvetica;
+  font-size: 14px;
+  font-weight: 500;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: absolute;
+  top: -1px;
+  white-space: nowrap;
+}
+
+.modal-profile .text-wrapper-78 {
+  color: #344054;
+  font-family: "Inter", Helvetica;
+  font-size: 14px;
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: 20px;
+}
+
+.modal-profile .text-wrapper-79 {
+  font-weight: 400;
+}
+
+.modal-profile .input-field-9 {
+  height: 20px;
+  left: 0;
+  position: absolute;
+  top: 116px;
+  width: 432px;
+}
+
+.modal-profile .input-field-wrapper {
+  height: 20px;
+  left: 0;
+  position: absolute;
+  top: 152px;
+  width: 432px;
+}
+
+.modal-profile .input-field-10 {
+  height: 20px;
+}
+
+.modal-profile .input-with-label-10 {
+  height: 20px;
+  position: relative;
+  width: 432px;
+}
+
+.modal-profile .divider-15 {
+  height: 1px;
+  left: 0;
+  position: absolute;
+  top: 188px;
+  width: 432px;
+}
+
+.modal-profile .frame-13 {
+  height: 346px;
+  left: 0;
+  position: absolute;
+  top: 205px;
+  width: 432px;
+}
+
+.modal-profile .checkbox-group-item {
+  background-color: #ffffff;
+  border-radius: 12px;
+  height: 52px;
+  left: 0;
+  position: absolute;
+  top: 30px;
+  width: 432px;
+}
+
+.modal-profile .content-23 {
+  height: 20px;
+  left: 16px;
+  position: relative;
+  top: 16px;
+  width: 400px;
+}
+
+.modal-profile .input-14 {
+  height: 18px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 16px;
+}
+
+.modal-profile .check-wrapper {
+  background-color: #e7181f;
+  border-radius: 4px;
+  height: 16px;
+  overflow: hidden;
+  position: relative;
+  top: 2px;
+}
+
+.modal-profile .check {
+  height: 12px;
+  left: 2px;
+  position: absolute;
+  top: 2px;
+  width: 12px;
+}
+
+.modal-profile .text-and-subtext-wrapper {
+  height: 20px;
+  left: 24px;
+  position: absolute;
+  top: 0;
+  width: 376px;
+}
+
+.modal-profile .text-and-subtext {
+  height: 20px;
+  position: relative;
+  width: 148px;
+}
+
+.modal-profile .text-73 {
+  color: #344054;
+  font-family: "Inter", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: absolute;
+  top: -1px;
+  white-space: nowrap;
+}
+
+.modal-profile .text-wrapper-80 {
+  color: #344054;
+  font-family: "Inter", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 20px;
+}
+
+.modal-profile .checkbox-group-item-2 {
+  background-color: #ffffff;
+  border-radius: 12px;
+  height: 52px;
+  left: 0;
+  position: absolute;
+  top: 92px;
+  width: 432px;
+}
+
+.modal-profile .text-and-subtext-2 {
+  height: 20px;
+  position: relative;
+  width: 188px;
+}
+
+.modal-profile .checkbox-group-item-3 {
+  background-color: #ffffff;
+  border-radius: 12px;
+  height: 52px;
+  left: 0;
+  position: absolute;
+  top: 154px;
+  width: 432px;
+}
+
+.modal-profile .text-and-subtext-3 {
+  height: 20px;
+  position: relative;
+  width: 165px;
+}
+
+.modal-profile .checkbox-group-item-4 {
+  background-color: #ffffff;
+  border-radius: 12px;
+  height: 52px;
+  left: 0;
+  position: absolute;
+  top: 216px;
+  width: 432px;
+}
+
+.modal-profile .text-and-subtext-4 {
+  height: 20px;
+  position: relative;
+  width: 177px;
+}
+
+.modal-profile .checkbox-group-item-5 {
+  background-color: #ffffff;
+  border-radius: 12px;
+  height: 52px;
+  left: 0;
+  position: absolute;
+  top: 278px;
+  width: 432px;
+}
+
+.modal-profile .text-and-subtext-5 {
+  height: 20px;
+  position: relative;
+  width: 151px;
+}
+
+.modal-profile .divider-16 {
+  height: 1px;
+  left: 0;
+  position: absolute;
+  top: 623px;
+  width: 480px;
+}
+
+.modal-profile .modal-actions-4 {
+  height: 92px;
+  left: 0;
+  position: absolute;
+  top: 624px;
+  width: 480px;
+}
+
+.modal-profile .actions-wrapper {
+  height: 68px;
+  position: relative;
+  top: 24px;
+}
+
+.modal-profile .actions-3 {
+  height: 44px;
+  left: 24px;
+  position: relative;
+  width: 432px;
+}
+
+.modal-profile .buttons-button-16 {
+  all: unset;
+  background-color: #ffffff;
+  border-radius: 8px;
+  box-shadow: 0px 1px 2px #1018280d;
+  box-sizing: border-box;
+  height: 44px;
+  left: 0;
+  overflow: hidden;
+  position: absolute;
+  top: 0;
+  width: 210px;
+}
+
+.modal-profile .text-padding-23 {
+  height: 24px;
+  left: 76px;
+  position: relative;
+  top: 10px;
+  width: 58px;
+}
+
+.modal-profile .text-74 {
+  color: #344054;
+  font-family: "Inter", Helvetica;
+  font-size: 16px;
+  font-weight: 600;
+  left: 2px;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: absolute;
+  top: -1px;
+  white-space: nowrap;
+}
+
+.modal-profile .text-wrapper-81 {
+  color: #344054;
+  font-family: "Inter", Helvetica;
+  font-size: 16px;
+  font-weight: 600;
+  letter-spacing: 0;
+  line-height: 24px;
+}
+
+.modal-profile .buttons-button-17 {
+  all: unset;
+  background-color: #e7181f;
+  border-radius: 8px;
+  box-shadow: 0px 1px 2px #1018280d;
+  box-sizing: border-box;
+  height: 44px;
+  left: 222px;
+  overflow: hidden;
+  position: absolute;
+  top: 0;
+  width: 210px;
+}
+
+.modal-profile .text-padding-24 {
+  height: 24px;
+  left: 48px;
+  position: relative;
+  top: 10px;
+  width: 115px;
+}
+
+.modal-profile .text-75 {
+  color: #ffffff;
+  font-family: "Inter", Helvetica;
+  font-size: 16px;
+  font-weight: 600;
+  left: 2px;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: absolute;
+  top: -1px;
+  white-space: nowrap;
+}
+
+.modal-profile .text-wrapper-82 {
+  color: #ffffff;
+  font-family: "Inter", Helvetica;
+  font-size: 16px;
+  font-weight: 600;
+  letter-spacing: 0;
+  line-height: 24px;
+}
